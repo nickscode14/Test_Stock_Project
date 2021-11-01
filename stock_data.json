@@ -1,0 +1,27 @@
+{
+    "Stock": [
+        {
+            "symbol": "MSFT",
+            "name": "Microsoft",
+            "shares": 200.0,
+            "DataList": [
+                {
+                    "date": "10/1/2021",
+                    "close": 45.5,
+                    "volume": 1055.0
+                },
+                {
+                    "date": "10/2/2021",
+                    "close": 77.5,
+                    "volume": 1022.0
+                }
+            ]
+        },
+        {
+            "symbol": "IBM",
+            "name": "IBM",
+            "shares": 100.0,
+            "DataList": []
+        }
+    ]
+}
